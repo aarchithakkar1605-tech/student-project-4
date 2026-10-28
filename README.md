@@ -1,2 +1,2 @@
 # Student Project
-This project is created for learning Git basics.
+This is my first GitHub project.
